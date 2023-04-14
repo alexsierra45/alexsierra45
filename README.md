@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning advanced Data Structures and Algorithms
-- 📫 How to reach me: As @alexsierra45 in Telegram and Alex Sierra in Linkedln
+- 🌱 I’m currently learning advanced Data Structures and Algorithms.
+- 📫 How to reach me: As @alexsierra45 in Telegram and Alex Sierra in Linkedln.
 - ⚡ Fun fact: You know, there are more planes at sea than submarines in the sky.
 <!--
 **alexsierra45/alexsierra45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
