@@ -7,18 +7,25 @@
 
 ### My Links
 
-<p align="center">
+<style>
+    img.link {
+        border-radius: 15px;
+        width: 50px;
+        height: 50px
+    }
+</style>
+
+<p>
   <a href="https://www.linkedin.com/in/alex-sierra-297aaa261">
-    <img src="logos/linkedin-icon-32x32-clipart-7.png" 
-    width="70" height="60"/>
+    <img src="logos/linkedin-icon-32x32-clipart-7.png" class="link"/>
   </a>
   <a href="https://t.me/alexsierra45">
     <img src="logos/Telegram-Logo-PNG.png" 
-    width="70" height="60"/>
+    class="link"/>
   </a>
   <a href="https://codeforces.com/profile/risel">
-    <img src="logos/OIP.ico" 
-    width="70" height="60"/>
+    <img src="logos/OIP.png" 
+    class="link"/>
   </a>
 </p>
 
