@@ -1,8 +1,19 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning advanced Data Structures and Algorithms.
-- 📫 How to reach me: As [@alexsierra45](https://t.me/alexsierra45) in Telegram and [Alex Sierra](https://www.linkedin.com/in/alex-sierra-297aaa261) in Linkedln.
+- 📫 How to reach me: As [@alexsierra45](https://t.me/alexsierra45) in Telegram.
 - ⚡ Fun fact: You know, there are more planes at sea than submarines in the sky.
+
+### My Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-sierra-297aaa261">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://t.me/alexsierra45">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+</p>
 <!--
 **alexsierra45/alexsierra45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
