@@ -33,7 +33,7 @@
   <div class="lang">
     <h4>Languages</h4>
     <img src="https://skillicons.dev/icons?i=js,ts,cs"/>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,haskell"/>
   </div>
   <div class="backend">
     <h4>Backend</h4>
