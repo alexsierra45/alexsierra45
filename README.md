@@ -8,7 +8,7 @@
 ### My Links
 
 <p>
-  <a href="https://www.linkedin.com/in/alex-sierra-297aaa261">
+  <a href="https://www.linkedin.com/in/alexsierra01/">
     <img src="logos/linkedin-icon-32x32-clipart-7.png" border-radius="15" width="50" height="50"/>
   </a>
   <a href="https://t.me/alexsierra45">
