@@ -46,8 +46,8 @@
     <img src="https://skillicons.dev/icons?i=css,html"/>
   </div>
     <div class="mobile">
-    <h4>Frontend</h4>
-    <img src="https://skillicons.dev/icons?i=flutter, dart"/>
+    <h4>Mobile</h4>
+    <img src="https://skillicons.dev/icons?i=flutter,dart"/>
   </div>
   <div class="misc">
     <h4>Tools & Extras</h4>
