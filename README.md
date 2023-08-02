@@ -52,7 +52,7 @@
   <div class="misc">
     <h4>Tools & Extras</h4>
     <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-    <img src="https://skillicons.dev/icons?i=unity,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=postman,tensorflow"/>
   </div>
 </div>
 
