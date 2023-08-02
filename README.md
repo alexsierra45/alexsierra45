@@ -37,8 +37,8 @@
   </div>
   <div class="backend">
     <h4>Backend</h4>
-    <img src="https://skillicons.dev/icons?i=dotnet"/>
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,mysql"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=express,nodejs,mysql"/>
   </div>
   <div class="frontend">
     <h4>Frontend</h4>
