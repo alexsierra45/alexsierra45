@@ -45,6 +45,10 @@
     <img src="https://skillicons.dev/icons?i=angular,react"/>
     <img src="https://skillicons.dev/icons?i=css,html"/>
   </div>
+    <div class="mobile">
+    <h4>Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=flutter, dart"/>
+  </div>
   <div class="misc">
     <h4>Tools & Extras</h4>
     <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
