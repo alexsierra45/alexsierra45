@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex Sierra 👋
 
-- 🏫 I'm a 3rd year **CS student** at University of Havana
+- 🏫 I'm a 4th year **CS student** at University of Havana
 - 🌱 I’m currently learning advanced Data Structures and Algorithms.
 - 📫 You can reach me at: **[alexsierraalcala@gmail.com](**alexsierraalcala@gmail.com**)**
 - ⚡ Fun fact: You know, there are more planes at sea than submarines in the sky.
